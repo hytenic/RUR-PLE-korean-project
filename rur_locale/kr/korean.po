@@ -379,7 +379,7 @@ msgstr "html 파일 (*.htm*)|*.htm*| 모든 파일들 (*.*)|*.*"
 #: ..\rurple/rur_py/cpu.py:50
 #: rur_py/cpu.py:50
 msgid "Error found in your program."
-msgstr "당신의 프로그램에서 에러를 찾음."
+msgstr "당신의 프로그램에서 에러를 발견했습니다."
 
 #: ..\rurple/rur_py/cpu.py:168
 #: rur_py/cpu.py:168
@@ -399,7 +399,7 @@ msgstr "실행할 명령이 없습니다."
 #: ..\rurple/rur_py/cpu.py:294
 #: rur_py/cpu.py:294
 msgid "You forgot to turn me off!"
-msgstr "너는 날 끄는것을 잊었어!"
+msgstr "너는 날 종료하는 것을 잊었어!"
 
 #: ..\rurple/rur_py/cpu.py:316
 #: rur_py/cpu.py:316
@@ -452,7 +452,7 @@ msgstr "오류"
 #: rur_py/dialogs.py:96
 #: rur_py/dialogs.py:102
 msgid "Turn off"
-msgstr "끔"
+msgstr "종료"
 
 #: ..\rurple/rur_py/dialogs.py:106
 #: rur_py/dialogs.py:106
@@ -488,7 +488,7 @@ msgid ""
 "That move really hurt!\n"
 "Please, make sure that there is no wall in front of me!"
 msgstr ""
-"그 움직임은 정말 상처였어!\n"
+"그 움직임은 정말 아팠어!\n"
 "벽이 내 앞에 없다는것을 확인해!"
 
 #: ..\rurple/rur_py/robot_factory.py:170
